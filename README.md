@@ -1,5 +1,5 @@
 # Restaurants-app Nuxt.js + Laravel + Google Map Api
-![CHEESE!](Screen Shot Restaurants-app.gif)
+![CHEESE!](Screen%20Shot%20Restaurants-app.gif)
 ## Nuxt.js Build Setup
 
 ```bash
